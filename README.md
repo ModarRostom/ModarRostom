@@ -76,7 +76,7 @@ My dual study will be completed in June 2024. The study is for an IT specialist 
   <li><b>Solution Orientation:</b> Focused on Problem Solving</li>
 </ul>
 </div>
-
+<!--
 ### 👀 Profile Views 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=ModarRostom&style=for-the-badge&color=green" alt=""/>
@@ -105,3 +105,4 @@ My dual study will be completed in June 2024. The study is for an IT specialist 
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p> 
 </details>
+-->
