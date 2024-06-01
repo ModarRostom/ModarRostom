@@ -40,7 +40,7 @@ Motivated IT specialist with a focus on Digital Networking. Throughout my career
 
 ## 📚 EDUCATION
 
-### IT Specialist for Digital Networking
+### IT Specialist for Digital Networking & SysAdmin Pro.
 **Regensburg**  
 *Sep 2022 - Jun 2024*
 
