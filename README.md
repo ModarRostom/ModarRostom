@@ -22,7 +22,7 @@ Motivierter Fachinformatiker mit Schwerpunkt auf Digitale Vernetzung. In meiner 
 
 ## 💼 Experience
 
-### IT Specialist for Digital Networking
+### Digital Networking & SysAdmin Pro.
 **Bertrandt Technologie GmbH, Regensburg**  
 *Jan 2022 - Jun 2024*
 
