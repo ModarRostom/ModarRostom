@@ -5,7 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+my+Profile!+👋;+I'm+Modar+Rostom!;IT+Specialist+For+Digital+Networking;" />
 </h1>
 <!---->
-## 🎯 Career Objective
+
+### 🎯 Career Objective
 <div style="background-color:#f0f8ff; padding:15px; border-radius:10px;">
 Motivated IT specialist with a focus on system integration and network security. Throughout my career, I have particularly valued teamwork and the ability to adapt to different work environments. I am skilled in troubleshooting, maintaining network infrastructures, and implementing security measures to protect data. Proven in optimizing system performance and ensuring system reliability. I work effectively under pressure, both independently and as part of a team. I adapt flexibly to diverse project environments and team configurations. My goal is to further deepen my skills and contribute to the successful implementation of projects.
 </div>
