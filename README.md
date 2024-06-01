@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modar-rostom-78368926a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Modar.rostom@gmail.com)
 [![Xing](https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Modar_Rostom)
-<p><a href="mailto:Modar.rostom@gmail.com">Send email</a></p>
+<p><a href="mailto:Modar.rostom@gmail.com" style="text-decoration: none; background-color: #D14836; color: white; padding: 10px 20px; border-radius: 5px; display: inline-block;">Send email</a></p>
 
 ![banner](https://github.com/ModarRostom/ModarRostom/assets/48219025/ad3d2baa-b691-4bba-b47c-c3661947dad9)
 
@@ -15,8 +15,6 @@
 <div style="background-color:#f0f8ff; padding:15px; border-radius:10px;">
 Motivated IT specialist with a focus on system integration and network security. Throughout my career, I have particularly valued teamwork and the ability to adapt to different work environments. I am skilled in troubleshooting, maintaining network infrastructures, and implementing security measures to protect data. Proven in optimizing system performance and ensuring system reliability. I work effectively under pressure, both independently and as part of a team. I adapt flexibly to diverse project environments and team configurations. My goal is to further deepen my skills and contribute to the successful implementation of projects.
 </div>
-
-
 
 ## 💼 Experience
 
@@ -77,33 +75,3 @@ My dual study will be completed in June 2024. The study is for an IT specialist 
   <li><b>Solution Orientation:</b> Focused on Problem Solving</li>
 </ul>
 </div>
-<!--
-### 👀 Profile Views 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=ModarRostom&style=for-the-badge&color=green" alt=""/>
-</div>
-
-
-<details>
-<summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Modar Rostom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ModarRostom&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Modar Rostom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ModarRostom&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="200px"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
-</p> 
-</details>
--->
