@@ -1,5 +1,5 @@
 ### Thanks for visiting my Page.👋 
-#### Samples of my work below in system administration, network configuration, and digital networking
+#### Samples of my work below in system administration, network configuration, and digital networking.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modar-rostom-78368926a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Modar.rostom@gmail.com)
 [![Xing](https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Modar_Rostom)
