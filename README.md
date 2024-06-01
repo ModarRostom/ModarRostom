@@ -20,6 +20,33 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+my+Profile!+👋;+I'm+Modar+Rostom!;IT+Specialist+For+Digital+Networking;" />
 </h1>
+<table>
+  <tr>
+    <td><h2>MY PROJECTS</h2>
+    <td colspan="2"><center><h2>GALLERY</h2></center>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/ModarRostom?tab=repositories">1. Project 1 Title 👆</p>
+       <p><a href="https://github.com/ModarRostom?tab=repositories">2.  Project 2 Title 👆</p>
+       <p><a href="https://github.com/ModarRostom?tab=repositories">3.  Project 3 Title 👆</p>
+       <p><a href="https://github.com/ModarRostom?tab=repositories">4.  Project 4 Title 👆</p>
+        <p><a href="https://github.com/ModarRostom?tab=repositories">5.  Project 5 Title 👆</p>
+       <p><a href="https://github.com/ModarRostom?tab=repositories">6. 	 Project 6 Title 👆</p>
+       <p><a href="https://github.com/ModarRostom?tab=repositories">7.  Project 7 Title 👆</p>
+       <p><a href="https://github.com/ModarRostom?tab=repositories">8.  Project 8 Title 👆</p>
+         <p><a href="https://github.com/ModarRostom?tab=repositories">9.  Project 9 Title 👆</p>
+       <p><a href="https://github.com/ModarRostom?tab=repositories">10.  Project 10 Title 👆</p>
+  </d>
+    <td ><img src="https://github.com/Qadir-Hassan/attachement/blob/main/lab%20entrance.jpg" width = 500>
+      <p>Silicon Valley - Automation Research and Development Lab (led and managed)</p>
+    </td>
+     <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/robotics%20setup.jpg" width = 500>
+        <p>Silicon Valley - Automation Research and Development Lab (led and managed)</p>
+    </td>
+    </tr> 
+</table>
+
 
 ## 🎯 Career Objective
 <div style="background-color:#f0f8ff; padding:15px; border-radius:10px;">
