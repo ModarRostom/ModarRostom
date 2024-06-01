@@ -2,7 +2,7 @@
 #### Samples of my work below in system administration, network configuration, and digital networking
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modar-rostom-78368926a/)
 <a href="mailto:Modar.rostom@gmail.com">
-  <img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
 </a>
 <a href="https://www.xing.com/profile/Modar_Rostom"> 
   <img src="https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=xing&logoColor=white" alt="Xing Profile"/>
@@ -15,14 +15,14 @@
 
 ## 🎯 Career Objective
 <div style="background-color:#f0f8ff; padding:15px; border-radius:10px;">
-Motivierter Fachinformatiker mit Schwerpunkt auf Digitale Vernetzung. In meiner bisherigen Laufbahn habe ich besonders den Wert der Teamarbeit und die Fähigkeit zur Anpassung an unterschiedliche Arbeitsumgebungen schätzen gelernt. Ich bin versiert in der Fehlerbehebung, Wartung von Netzwerkinfrastrukturen und der Umsetzung von Sicherheitsmaßnahmen zum Schutz von Daten. Bewährt in der Optimierung von Systemleistungen und der Sicherstellung von Systemzuverlässigkeit. Ich arbeite auch unter Druck fokussiert und effizient, sowohl selbstständig als auch im Team. Ich passe mich flexibel an unterschiedlichste Projektumgebungen und Teamkonstellationen an. Mein Ziel ist es, meine Fähigkeiten in der digitalen Vernetzung weiter zu vertiefen und zur erfolgreichen Umsetzung von Projekten beizutragen.
+Motivated IT specialist with a focus on system integration and network security. Throughout my career, I have particularly valued teamwork and the ability to adapt to different work environments. I am skilled in troubleshooting, maintaining network infrastructures, and implementing security measures to protect data. Proven in optimizing system performance and ensuring system reliability. I work effectively under pressure, both independently and as part of a team. I adapt flexibly to diverse project environments and team configurations. My goal is to further deepen my skills and contribute to the successful implementation of projects.
 </div>
 
 
 
 ## 💼 Experience
 
-### Digital Networking & SysAdmin Pro.
+### IT Specialist for Digital Networking
 **Bertrandt Technologie GmbH, Regensburg**  
 *Jan 2022 - Jun 2024*
 
