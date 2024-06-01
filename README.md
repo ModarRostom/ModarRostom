@@ -15,7 +15,7 @@
 
 ## 🎯 Career Objective
 <div style="background-color:#f0f8ff; padding:15px; border-radius:10px;">
-Motivated IT specialist with a focus on system integration and network security. Throughout my career, I have particularly valued teamwork and the ability to adapt to different work environments. I am skilled in troubleshooting, maintaining network infrastructures, and implementing security measures to protect data. Proven in optimizing system performance and ensuring system reliability. I work effectively under pressure, both independently and as part of a team. I adapt flexibly to diverse project environments and team configurations. My goal is to further deepen my skills and contribute to the successful implementation of projects.
+Motivierter Fachinformatiker mit Schwerpunkt auf Digitale Vernetzung. In meiner bisherigen Laufbahn habe ich besonders den Wert der Teamarbeit und die Fähigkeit zur Anpassung an unterschiedliche Arbeitsumgebungen schätzen gelernt. Ich bin versiert in der Fehlerbehebung, Wartung von Netzwerkinfrastrukturen und der Umsetzung von Sicherheitsmaßnahmen zum Schutz von Daten. Bewährt in der Optimierung von Systemleistungen und der Sicherstellung von Systemzuverlässigkeit. Ich arbeite auch unter Druck fokussiert und effizient, sowohl selbstständig als auch im Team. Ich passe mich flexibel an unterschiedlichste Projektumgebungen und Teamkonstellationen an. Mein Ziel ist es, meine Fähigkeiten in der digitalen Vernetzung weiter zu vertiefen und zur erfolgreichen Umsetzung von Projekten beizutragen.
 </div>
 
 
