@@ -16,12 +16,12 @@
 
 ## 🎯 Career Objective
 <div style="background-color:#f0f8ff; padding:15px; border-radius:10px;">
-Motivated IT specialist with a focus on system integration and network security. Throughout my career, I have particularly valued teamwork and the ability to adapt to different work environments. I am skilled in troubleshooting, maintaining network infrastructures, and implementing security measures to protect data. Proven in optimizing system performance and ensuring system reliability. I work effectively under pressure, both independently and as part of a team. I adapt flexibly to diverse project environments and team configurations. My goal is to further deepen my skills and contribute to the successful implementation of projects.
+Motivated IT specialist with a focus on Digital Networking. Throughout my career, I have come to highly value teamwork and the ability to adapt to various work environments. I am skilled in troubleshooting, maintaining network infrastructures, and implementing security measures to protect data. Proven in optimizing system performance and ensuring system reliability. I work efficiently under pressure, both independently and as part of a team. I adapt flexibly to diverse project environments and team configurations. My goal is to further deepen my skills in digital networking and contribute to the successful implementation of projects.
 </div>
 
 ## 💼 Experience
 
-### IT Specialist for Digital Networking
+### IT Specialist for Digital Networking & SysAdmin Pro
 **Bertrandt Technologie GmbH, Regensburg**  
 *Jan 2022 - Jun 2024*
 
