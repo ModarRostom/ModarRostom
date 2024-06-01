@@ -3,7 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modar-rostom-78368926a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Modar.rostom@gmail.com)
 [![Xing](https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Modar_Rostom)
-
+<a href="mailto:Modar.rostom@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" style="max-width: 100%;">
+</a>
 ![banner](https://github.com/ModarRostom/ModarRostom/assets/48219025/ad3d2baa-b691-4bba-b47c-c3661947dad9)
 
 <h1 align="center">
