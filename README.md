@@ -27,8 +27,8 @@
   </tr>
   <tr>
     <td>
-      <p><a href="https://github.com/ModarRostom?tab=repositories">1. Project 1 Title 👆</p>
-       <p><a href="https://github.com/ModarRostom?tab=repositories">2.  Project 2 Title 👆</p>
+      <p><a href="https://github.com/ModarRostom?tab=repositories">1. Active Directory User Management with PowerShell 👆</p>
+       <p><a href="https://github.com/ModarRostom?tab=repositories">2. Group Management and Exporting User-Details  👆</p>
        <p><a href="https://github.com/ModarRostom?tab=repositories">3.  Project 3 Title 👆</p>
        <p><a href="https://github.com/ModarRostom?tab=repositories">4.  Project 4 Title 👆</p>
         <p><a href="https://github.com/ModarRostom?tab=repositories">5.  Project 5 Title 👆</p>
