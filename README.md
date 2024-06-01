@@ -1,8 +1,15 @@
 ### Thanks for visiting my Page.👋 
 #### Samples of my work below in system administration, network configuration, and digital networking.
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modar-rostom-78368926a/)
-[![Xing](https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Modar_Rostom)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Modar.rostom@gmail.com)
+<a href="https://www.linkedin.com/in/modar-rostom-78368926a">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 120px; height: 28px;">
+</a>
+<a href="https://www.xing.com/profile/Modar_Rostom">
+  <img src="https://img.shields.io/badge/Xing-126567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="Xing" style="width: 120px; height: 28px;">
+</a>
+<a href="mailto:Modar.rostom@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="width: 120px; height: 28px;">
+</a>
+
 <!--
 <a href="mailto:munawar151512m@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" style="max-width: 100%;">
