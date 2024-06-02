@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td><h2>MY PROJECTS</h2>
-    <td colspan="2"><center><h2>GALLERY</h2></center>
+ <!--       <td colspan="2"><center><h2>GALLERY</h2></center>    -->
   </tr>
   <tr>
     <td>
