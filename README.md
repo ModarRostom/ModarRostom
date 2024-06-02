@@ -51,10 +51,10 @@
       <p>Setting up a home lab is rewarding for aspiring system administrators and IT enthusiasts.</p>
     </td>
      <td><img src="https://github.com/ModarRostom/ModarRostom/blob/main/homelab.webp" width = 500>
-        <p>Throughout the process, documenting the setup, addressing challenges, and delineating</p> -->
+        <p>Throughout the process, documenting the setup, addressing challenges, and delineating</p> 
 
     </td>
-    </tr> 
+    </tr> -->
 </table>
 
 
