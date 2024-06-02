@@ -38,11 +38,11 @@
          <p><a href="https://github.com/ModarRostom?tab=repositories">9.  Project 9 Title 👆</p>
        <p><a href="https://github.com/ModarRostom?tab=repositories">10.  Project 10 Title 👆</p>
   </d>
-    <td ><img src="https://github.com/Qadir-Hassan/attachement/blob/main/lab%20entrance.jpg" width = 500>
-      <p>Silicon Valley - Automation Research and Development Lab (led and managed)</p>
+    <td ><img src="https://github.com/ModarRostom/ModarRostom/blob/main/homelab-server.webp" width = 500>
+      <p>Setting up a home lab is rewarding for aspiring system administrators and IT enthusiasts.</p>
     </td>
-     <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/robotics%20setup.jpg" width = 500>
-        <p>Silicon Valley - Automation Research and Development Lab (led and managed)</p>
+     <td><img src="https://github.com/ModarRostom/ModarRostom/blob/main/homelab.webp" width = 500>
+        <p>Throughout the process, documenting the setup, addressing challenges, and delineating</p>
     </td>
     </tr> 
 </table>
