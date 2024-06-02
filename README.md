@@ -1,5 +1,6 @@
 ### Thanks for visiting my Page.👋 
 #### Samples of my work below in system administration, network configuration, and digital networking.
+<!--
 <a href="https://www.linkedin.com/in/modar-rostom-78368926a">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 120px; height: 28px;">
 </a>
@@ -9,6 +10,19 @@
 <a href="mailto:Modar.rostom@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="width: 120px; height: 28px;">
 </a>
+-->
+<div align="left" dir="auto"> 
+
+  <a href="https://www.linkedin.com/in/modar-rostom-78368926a" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;max-height: 100%;">
+  </a>
+  <a href="https://www.xing.com/profile/Modar_Rostom">
+  <img src="https://img.shields.io/badge/Xing-126567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="Xing" style="max-width: 100%;max-height:100%;">
+</a>
+  <a href="mailto:Modar.rostom@gmail.com">
+  <img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;max-height:100%;">
+</a>
+</div>
 
 <!--
 <a href="mailto:munawar151512m@gmail.com">
