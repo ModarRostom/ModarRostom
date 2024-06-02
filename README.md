@@ -38,20 +38,21 @@
     <td>
       <p><a href="https://github.com/ModarRostom?tab=repositories">1. Active Directory User Management with PowerShell 👆</p>
        <p><a href="https://github.com/ModarRostom?tab=repositories">2. Group Management and Exporting User-Details  👆</p>
-       <p><a href="https://github.com/ModarRostom?tab=repositories">3.  Project 3 Title 👆</p>
+<!--       <p><a href="https://github.com/ModarRostom?tab=repositories">3.  Project 3 Title 👆</p>
        <p><a href="https://github.com/ModarRostom?tab=repositories">4.  Project 4 Title 👆</p>
         <p><a href="https://github.com/ModarRostom?tab=repositories">5.  Project 5 Title 👆</p>
        <p><a href="https://github.com/ModarRostom?tab=repositories">6. 	 Project 6 Title 👆</p>
        <p><a href="https://github.com/ModarRostom?tab=repositories">7.  Project 7 Title 👆</p>
        <p><a href="https://github.com/ModarRostom?tab=repositories">8.  Project 8 Title 👆</p>
          <p><a href="https://github.com/ModarRostom?tab=repositories">9.  Project 9 Title 👆</p>
-       <p><a href="https://github.com/ModarRostom?tab=repositories">10.  Project 10 Title 👆</p>
+       <p><a href="https://github.com/ModarRostom?tab=repositories">10.  Project 10 Title 👆</p> 
   </d>
     <td ><img src="https://github.com/ModarRostom/ModarRostom/blob/main/homelab-server.webp" width = 500>
       <p>Setting up a home lab is rewarding for aspiring system administrators and IT enthusiasts.</p>
     </td>
      <td><img src="https://github.com/ModarRostom/ModarRostom/blob/main/homelab.webp" width = 500>
-        <p>Throughout the process, documenting the setup, addressing challenges, and delineating</p>
+        <p>Throughout the process, documenting the setup, addressing challenges, and delineating</p> -->
+
     </td>
     </tr> 
 </table>
