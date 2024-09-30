@@ -1,4 +1,3 @@
-### Thanks for visiting my Page.👋 
 #### Samples of my work below in system administration, network configuration, and digital networking.
 <!--
 <a href="https://www.linkedin.com/in/modar-rostom-78368926a">
