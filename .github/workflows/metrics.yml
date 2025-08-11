@@ -3,13 +3,13 @@ name: GitHub Metrics
 on:
   schedule:
     - cron: "17 5 * * *"      # täglich
-  workflow_dispatch: {}        # manueller Start möglich
+  workflow_dispatch: {}        # manueller Start
   push:
     paths:
       - ".github/workflows/metrics.yml"
 
 permissions:
-  contents: write               # erlaubt Commits durch Actions
+  contents: write
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # Authentifizierung
+          # Auth
           token: ${{ secrets.METRICS_TOKEN }}            # API lesen
           committer_token: ${{ secrets.METRICS_TOKEN }}  # SVG committen
 
@@ -26,17 +26,17 @@ jobs:
           user: ModarRostom
           config_timezone: Europe/Berlin
 
-          # Layout minimal
+          # Schlankes Layout
           template: classic
           base: header, activity, metadata
 
-          # Aktivität (entspricht Radar-Inhalt: Commits/PRs/Reviews/Issues)
+          # Aktivität (entspricht inhaltlich dem Radar: Commits/PRs/Reviews/Issues)
           plugin_activity: yes
           plugin_activity_days: 30
           plugin_activity_filter: all
           plugin_activity_limit: 10
 
-          # Heatmap (Jahr)
+          # Heatmap (Commit-Kalender)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
@@ -46,7 +46,7 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
 
-          # Deaktivierte, unnötige Plugins
+          # Deaktiviert: alles Überflüssige
           plugin_languages: no
           plugin_lines: no
           plugin_followup: no
