@@ -2,14 +2,14 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "17 5 * * *"      # 1x täglich
-  workflow_dispatch: {}        # manueller Start
+    - cron: "17 5 * * *"      # täglich
+  workflow_dispatch: {}        # manueller Start möglich
   push:
     paths:
       - ".github/workflows/metrics.yml"
 
 permissions:
-  contents: write
+  contents: write               # erlaubt Commits durch Actions
 
 jobs:
   build:
@@ -18,9 +18,9 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # Auth
-          token: ${{ secrets.METRICS_TOKEN }}          # API lesen
-          committer_token: ${{ secrets.METRICS_TOKEN }}# SVG committen
+          # Authentifizierung
+          token: ${{ secrets.METRICS_TOKEN }}            # API lesen
+          committer_token: ${{ secrets.METRICS_TOKEN }}  # SVG committen
 
           # Profil
           user: ModarRostom
@@ -28,15 +28,15 @@ jobs:
 
           # Layout minimal
           template: classic
-          base: header, activity, metadata             # KEINE Repos/Community-Spalten
+          base: header, activity, metadata
 
-          # Aktivität (entspricht inhaltlich dem Radar: Commits/PRs/Reviews/Issues)
+          # Aktivität (entspricht Radar-Inhalt: Commits/PRs/Reviews/Issues)
           plugin_activity: yes
           plugin_activity_days: 30
-          plugin_activity_filter: all                  # commits, issues, prs, reviews
-          plugin_activity_limit: 10                    # kurze Liste, Fokus auf Anteile
+          plugin_activity_filter: all
+          plugin_activity_limit: 10
 
-          # Heatmap (ohne 3D-Kalender)
+          # Heatmap (Jahr)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
@@ -46,7 +46,7 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_display: compact
 
-          # Ausschalten: keine Sprachen, keine Lines, kein Calendar etc.
+          # Deaktivierte, unnötige Plugins
           plugin_languages: no
           plugin_lines: no
           plugin_followup: no
