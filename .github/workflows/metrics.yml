@@ -2,7 +2,7 @@ name: GitHub Profile Metrics
 
 on:
   schedule:
-    - cron: '23 3 * * *'     # 1x täglich reicht
+    - cron: '23 3 * * *'    # 1x täglich
   workflow_dispatch: {}
   push:
     paths:
@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write        # für den Commit von metrics.svg
     steps:
       - uses: actions/checkout@v4
 
@@ -21,32 +21,26 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Profil
           user: ModarRostom
           template: classic
+          base: header, metadata
           config_timezone: Europe/Berlin
 
-          # Nur die Basisköpfe + wenig Meta
-          base: header, metadata
-
-          #### Contribution-Heatmap (ähnlich der GitHub-Heatmap)
+          # Heatmap (ähnlich GitHub)
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full   # ganzes Jahr
+          plugin_isocalendar_duration: full
 
-          #### Achievements (ähnlich der linken Trophäen)
-          plugin_achievements: yes
-          plugin_achievements_display: detailed   # oder 'compact'
-          plugin_achievements_threshold: C        # ab Level C zeigen
-          plugin_achievements_secrets: yes
-
-          #### Leichte Aktivitätsstatistiken (Ersatz fürs Radar)
+          # Aktivitäts-Gewohnheiten (Ersatz fürs Radar)
           plugin_habits: yes
-          plugin_habits_from: 200    # Tage zurück
+          plugin_habits_from: 200
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          #### Optional: Sprachen-Balken (nur wenn du willst)
-          plugin_languages: no        # auf 'yes' stellen, falls erwünscht
+          # Achievements stabil (ohne private/secret Daten)
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: no
+          plugin_achievements_limit: 12
 
-          # Ausgabedatei
           filename: metrics.svg
