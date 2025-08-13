@@ -1,82 +1,53 @@
-name: GitHub Metrics
+name: GitHub Profile Metrics
 
 on:
   schedule:
-    - cron: "17 5 * * *"
-  workflow_dispatch: {}
+    - cron: '21 */12 * * *'   # alle 12 Stunden
+  workflow_dispatch: {}        # manuell starten möglich
   push:
     paths:
-      - ".github/workflows/metrics.yml"
-
-permissions:
-  contents: write
+      - '.github/workflows/metrics.yml'
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      BRANCH: main
-      REPO: ModarRostom/ModarRostom
+    permissions:
+      contents: write    # SVG ins Repo committen
     steps:
-      - name: Preflight – verify repo & branch with PAT
-        run: |
-          set -euo pipefail
-          echo "Checking $REPO branch $BRANCH"
-          code_repo=$(curl -s -o /dev/null -w "%{http_code}" \
-            -H "Authorization: token ${METRICS_TOKEN}" \
-            https://api.github.com/repos/${REPO})
-          echo "GET /repos => $code_repo"
-          code_ref=$(curl -s -o /dev/null -w "%{http_code}" \
-            -H "Authorization: token ${METRICS_TOKEN}" \
-            https://api.github.com/repos/${REPO}/git/ref/heads/${BRANCH})
-          echo "GET /git/ref/heads/${BRANCH} => $code_ref"
-          if [ "$code_repo" != "200" ] || [ "$code_ref" != "200" ]; then
-            echo "ERROR: 404/401/403 bedeuten: Repo-Name/Branch falsch oder PAT/Secret falsch bzw. ohne 'repo'-Rechte."
-            exit 1
-          fi
-        env:
-          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # Auth
-          token: ${{ secrets.METRICS_TOKEN }}             # API lesen
-          committer_token: ${{ secrets.METRICS_TOKEN }}   # SVG committen
-          committer_repository: ModarRostom/ModarRostom
-          committer_branch: main
+          token: ${{ secrets.METRICS_TOKEN }}
 
-          # Profil
+          # Grundkonfiguration
           user: ModarRostom
+          template: classic
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
 
-          # Schlankes Layout
-          template: classic
-          base: header, activity, metadata
-
-          # Aktivität (entspricht Radar-Inhalt)
-          plugin_activity: yes
-          plugin_activity_days: 30
-          plugin_activity_filter: all
-          plugin_activity_limit: 10
-
-          # Commit-Kalender (Heatmap)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-          # Achievements
+          # Plugins (Auswahl)
           plugin_achievements: yes
+          plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          plugin_achievements_display: compact
 
-          # Deaktiviert
-          plugin_languages: no
-          plugin_lines: no
-          plugin_followup: no
-          plugin_calendar: no
+          plugin_isocalendar: yes           # Wochen-Heatmap
+          plugin_isocalendar_duration: full # ganzes Jahr
 
-          # Ausgabe
-          output_action: commit
-          committer_message: "chore(metrics): update metrics"
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # Ausgabeziel
           filename: metrics.svg
